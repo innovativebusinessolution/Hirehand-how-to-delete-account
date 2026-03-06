@@ -87,7 +87,7 @@ button:hover{
 
 <header>
 <h1>Account Deletion Request</h1>
-<p>Hirehand | Rajasthan, India</p>
+<p>Hirehand | Punjab, India</p>
 </header>
 
 <div class="container">
@@ -170,7 +170,7 @@ If you need assistance with account deletion or have any questions, please conta
 <p>
 <strong>Email:</strong> work.hirehand@gmail.com <br>
 <strong>Company:</strong> Hirehand <br>
-<strong>Address:</strong> Rajasthan, India
+<strong>Address:</strong> Punjab, India
 </p>
 </div>
 
